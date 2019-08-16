@@ -1,0 +1,9 @@
+{
+  "name": "slow-stream",
+  "version": "1.0.0",
+  "description": "virtualize the stream from slow system.",
+  "main": "index.js",
+  "repository": "https://github.com/moonyl/slow-stream.git",
+  "author": "Lee Sang Moon <moonysl@hanmail.net>",
+  "license": "MIT"
+}
