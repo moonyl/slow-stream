@@ -1,5 +1,5 @@
 {
-  "name": "slow-stream",
+  "name": "@moonyl/slow-stream",
   "version": "1.0.0",
   "description": "virtualize the stream from slow system.",
   "main": "index.js",
